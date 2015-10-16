@@ -1,9 +1,7 @@
 import test from 'tape';
 import highPass from '../../examples/highpass';
 
-const random = (min, max) => {
-  return Math.random() * (max - min) + min;
-};
+import random from '../helpers/random';
 
 test('highPass.filter()', nest => {
   nest.test('...with n > 5', assert => {
