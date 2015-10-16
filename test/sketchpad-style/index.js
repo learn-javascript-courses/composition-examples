@@ -3,6 +3,8 @@ import shape from '../../examples/shape';
 
 test('shape()', nest => {
   nest.test('...with prototype', assert => {
+    const msg = 'should reflect changes to the prototype';
+
     const proto = shape({
       x: 10,
       y: 10,
@@ -15,7 +17,6 @@ test('shape()', nest => {
 
     proto.x = 20;
 
-    const msg = 'should reflect changes to the prototype';
     const actual = {
       x: copy.x,
       y: copy.y,
@@ -34,6 +35,8 @@ test('shape()', nest => {
   });
 
   nest.test('...with prototype', assert => {
+    const msg = 'local changes should not alter prototype';
+
     const originalX = 10;
     const proto = shape({
       x: originalX,
@@ -47,7 +50,6 @@ test('shape()', nest => {
 
     copy.x = 2;
 
-    const msg = 'local changes should not alter prototype';
     const actual = proto.x;
     const expected = originalX;
 
