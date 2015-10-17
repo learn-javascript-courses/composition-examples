@@ -13,7 +13,7 @@ test('highPass.filter()', nest => {
     assert.end();
   });
 
-  nest.test('...with n > 5', assert => {
+  nest.test('...with n < 5', assert => {
     const msg = 'should return false for values below cutoff';
     const actual = highPass.filter(random(0, 4));
     const expected = false;

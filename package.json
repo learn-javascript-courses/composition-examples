@@ -6,7 +6,13 @@
   "scripts": {
     "lint": "eslint examples test",
     "test": "babel-node test/index.js",
-    "watch": "watch 'clear && npm run -s lint && npm run -s test' examples test"
+    "watch": "watch 'clear && npm run -s lint && npm run -s test' examples test",
+
+    "----- Examples ----":"",
+    "shape": "babel-node test/shape/index.js",
+    "highpass": "babel-node test/highpass/index.js",
+    "gorilla-banana/v1": "babel-node test/gorilla-banana/v1/index.js",
+    "gorilla-banana/v1/fail": "babel-node test/gorilla-banana/v1/fail.js"
   },
   "directories": {
     "example": "examples",
