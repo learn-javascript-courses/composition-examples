@@ -12,7 +12,9 @@
     "shape": "babel-node test/shape/index.js",
     "highpass": "babel-node test/highpass/index.js",
     "gorilla-banana/v1": "babel-node test/gorilla-banana/v1/index.js",
-    "gorilla-banana/v1/fail": "babel-node test/gorilla-banana/v1/fail.js"
+    "gorilla-banana/v1/fail": "babel-node test/gorilla-banana/v1/fail.js",
+    "gorilla-banana/v2/fail": "babel-node test/gorilla-banana/v2/fail.js",
+    "gorilla-banana/v3": "babel-node test/gorilla-banana/v3"
   },
   "directories": {
     "example": "examples",

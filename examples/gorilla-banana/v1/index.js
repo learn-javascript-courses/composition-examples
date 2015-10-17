@@ -4,7 +4,7 @@ export class GuitarAmp {
       cabinet, distortion, volume
     });
   }
-  process () {
+  apply () {
     return true;
   }
 }
