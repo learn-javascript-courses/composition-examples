@@ -6,7 +6,7 @@ Examples for The Two Pillars of JavaScript: Prototypal OO
 ### Clone & install:
 
 ```sh
-git clone git@github.com:ericelliott/composition-examples.git
+git clone git@github.com:learn-javascript-courses/composition-examples.git
 cd composition-examples
 npm install
 ```
