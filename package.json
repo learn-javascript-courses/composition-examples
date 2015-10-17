@@ -14,7 +14,10 @@
     "gorilla-banana/v1": "babel-node test/gorilla-banana/v1/index.js",
     "gorilla-banana/v1/fail": "babel-node test/gorilla-banana/v1/fail.js",
     "gorilla-banana/v2/fail": "babel-node test/gorilla-banana/v2/fail.js",
-    "gorilla-banana/v3": "babel-node test/gorilla-banana/v3"
+    "gorilla-banana/v3": "babel-node test/gorilla-banana/v3",
+    "simple-mixin-filter": "babel-node test/simple-mixin-filter",
+    "simple-factory-encapsulation": "babel-node test/simple-mixin-filter",
+    "simple-compose": "babel-node test/simple-compose"
   },
   "directories": {
     "example": "examples",
