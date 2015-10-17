@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericelliott/composition-examples.git"
+    "url": "git+https://github.com/learn-javascript-courses/composition-examples.git"
   },
   "keywords": [
     "composition",
@@ -40,7 +40,7 @@
   "author": "Eric Elliott",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ericelliott/composition-examples/issues"
+    "url": "https://github.com/learn-javascript-courses/composition-examples/issues"
   },
-  "homepage": "https://github.com/ericelliott/composition-examples#readme"
+  "homepage": "https://github.com/learn-javascript-courses/composition-examples#readme"
 }
