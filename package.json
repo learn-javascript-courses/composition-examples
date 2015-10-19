@@ -7,8 +7,7 @@
     "lint": "eslint examples test",
     "test": "babel-node test/index.js",
     "watch": "watch 'clear && npm run -s lint && npm run -s test' examples test",
-
-    "----- Examples ----":"",
+    "----- Examples ----": "",
     "shape": "babel-node test/shape/index.js",
     "highpass": "babel-node test/highpass/index.js",
     "gorilla-banana/v1": "babel-node test/gorilla-banana/v1/index.js",
@@ -25,6 +24,7 @@
   },
   "dependencies": {
     "eslint": "^1.7.0",
+    "stamp-utils": "^1.2.4",
     "tape": "^4.2.1",
     "watch": "^0.16.0"
   },

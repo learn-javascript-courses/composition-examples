@@ -5,3 +5,4 @@ import './gorilla-banana/v3';
 import './simple-mixin-filter';
 import './simple-factory-encapsulation';
 import './simple-compose';
+import './stamp-compose';
