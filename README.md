@@ -1,6 +1,8 @@
 # composition-examples
 Examples for The Two Pillars of JavaScript: Prototypal OO
 
+[This is where to find the examples.](https://github.com/learn-javascript-courses/composition-examples)
+
 ## Getting Started
 
 ### Clone & install:
@@ -51,3 +53,20 @@ The `-s` option supresses the `npm` error page, which tends to scroll test failu
 
 Some of the individual examples demonstrate test failures. They're excluded from the main test suite because they're expected to fail.
 
+
+## Practical Uses of Object Composition
+
+Lots of people use animals as examples when they talk about inheritance techniques. I think some examples of real use-cases would be better. I commonly use object composition for a number of real-life things in every day app development, including:
+
+**Network & database I/O**:
+
+Connection objects hold state including `host`, `port`, `accessToken`, etc... A connection factory would typically return a connection object with an event emitter composed in to signal to the app when I/O takes place.
+
+**Configuration:**
+
+Typical production apps often get configuration data (such as details of network services it uses, etc...) from a variety of different sources. The app then shares configuration objects with the parts of the app that require it. I frequently compose in an event emitter to the configuration object as well so that we can log when parts of the app request configuration data that is undefined. This alerts us when parts of the app misbehave. It might look something like this:
+
+
+```js
+const configuration = compose(source1, source2, source3, eventEmitter);
+```
