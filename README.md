@@ -1,6 +1,8 @@
 # composition-examples
 Examples for The Two Pillars of JavaScript: Prototypal OO
 
+[This is where to find the examples.](https://github.com/learn-javascript-courses/composition-examples)
+
 ## Getting Started
 
 ### Clone & install:
