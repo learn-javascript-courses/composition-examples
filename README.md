@@ -6,7 +6,8 @@ Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition
 
 * [Learn JavaScript with Eric Elliott](https://ericelliottjs.com)
 * [Composition with Prototypes Webcast Recording](https://ericelliottjs.com/product/webcast-monday-oct-19th-the-two-pillars-of-js-composition-with-prototypes/) - [Direct Link for members](https://ericelliottjs.com/premium-content/two-pillars-composition-with-prototypes/).
-* ["Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201634988?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201634988&linkCode=shr&tag=eejs-20&linkId=TMIKXHFQF7AJOQUF)
+* ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/gp/product/0201634988?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201634988&linkCode=shr&tag=eejs-20&linkId=TMIKXHFQF7AJOQUF) by the Gang of Four
+* [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/gp/product/0201485672?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201485672&linkCode=shr&tag=eejs-20&linkId=Z3J7SLZ25QEGYKJ6&creativeASIN=0201485672)
 * [Chat about object composition](https://gitter.im/stampit-org/stampit) with stamp experts
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635)
 * [The Two Pillars of JavaScript Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
