@@ -29,6 +29,7 @@ Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition
 * [Mori](https://github.com/swannodette/mori) Immutable datatypes from Clojure ported to JavaScript.
 * [Immutable JS](https://facebook.github.io/immutable-js/) Facebook's OSS Immutable library.
 * [Redux](https://github.com/rackt/redux) Pure functions for app state updates.
+* [Dan Abromov's Redux Dev Tools talk at React Europe](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [Redux DevTools](https://github.com/gaearon/redux-devtools) Great developer tools for Redux apps (including time travel debugger).
 * [Cerebral debugger demo](https://www.youtube.com/watch?v=Fo86aiBoomE) One of the first time travel debuggers for JS.
 * [React PropTypes documentation](https://facebook.github.io/react/docs/reusable-components.html) Runtime structural type checks in JavaScript.
