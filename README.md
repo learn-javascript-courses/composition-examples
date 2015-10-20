@@ -5,7 +5,7 @@ Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition
 ## Related Links
 
 * [Learn JavaScript with Eric Elliott](https://ericelliottjs.com)
-* [Composition with Prototypes Webcast Recording](https://ericelliottjs.com/product/webcast-monday-oct-19th-the-two-pillars-of-js-composition-with-prototypes/) - [Direct Link for members](https://github.com/learn-javascript-courses/composition-examples).
+* [Composition with Prototypes Webcast Recording](https://ericelliottjs.com/product/webcast-monday-oct-19th-the-two-pillars-of-js-composition-with-prototypes/) - [Direct Link for members](https://ericelliottjs.com/premium-content/two-pillars-composition-with-prototypes/).
 * ["Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201634988?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201634988&linkCode=shr&tag=eejs-20&linkId=TMIKXHFQF7AJOQUF)
 * [Chat about object composition](https://gitter.im/stampit-org/stampit) with stamp experts
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635)
