@@ -1,7 +1,31 @@
 # composition-examples
-Examples for The Two Pillars of JavaScript: Prototypal OO
 
-[This is where to find the examples.](https://github.com/learn-javascript-courses/composition-examples)
+Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition
+
+## Related Links
+
+* [Learn JavaScript with Eric Elliott](https://ericelliottjs.com)
+* [Composition with Prototypes Webcast Recording](https://ericelliottjs.com/product/webcast-monday-oct-19th-the-two-pillars-of-js-composition-with-prototypes/) - [Direct Link for members](https://github.com/learn-javascript-courses/composition-examples).
+* ["Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/gp/product/0201634988?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201634988&linkCode=shr&tag=eejs-20&linkId=TMIKXHFQF7AJOQUF)
+* [Chat about object composition](https://gitter.im/stampit-org/stampit) with stamp experts
+* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635)
+* [The Two Pillars of JavaScript Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+* [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+* [Inside the Dev Team Death Spiral](https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b)
+* [The Open Minded Explorer's Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed)
+* [Introducing the Stamp Specification](https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee)
+* [The Stamp Specification](https://github.com/stampit-org/stamp-specification)
+* [Mori](https://github.com/swannodette/mori)
+* [Immutable JS](https://facebook.github.io/immutable-js/)
+* [Redux](https://github.com/rackt/redux)
+* [Redux DevTools](https://github.com/gaearon/redux-devtools)
+* [Cerebral debugger demo](https://www.youtube.com/watch?v=Fo86aiBoomE)
+* [React PropTypes documentation](https://facebook.github.io/react/docs/reusable-components.html)
+* [TypeScript](http://www.typescriptlang.org/) (compile to JS superset language. Runtime support is experimental as of October 2015.
+* [JSON-Schema](http://json-schema.org/documentation.html)
+* [rtype](https://github.com/ericelliott/rtype#rtype)
+* [rfx](https://github.com/ericelliott/rfx)
+
 
 ## Getting Started
 
@@ -70,3 +94,4 @@ Typical production apps often get configuration data (such as details of network
 ```js
 const configuration = compose(source1, source2, source3, eventEmitter);
 ```
+
