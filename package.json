@@ -16,7 +16,8 @@
     "gorilla-banana/v3": "babel-node test/gorilla-banana/v3",
     "simple-mixin-filter": "babel-node test/simple-mixin-filter",
     "simple-factory-encapsulation": "babel-node test/simple-mixin-filter",
-    "simple-compose": "babel-node test/simple-compose"
+    "simple-compose": "babel-node test/simple-compose",
+    "stamp-compose": "babel-node test/stamp-compose"
   },
   "directories": {
     "example": "examples",
