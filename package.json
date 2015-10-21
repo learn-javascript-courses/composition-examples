@@ -1,6 +1,6 @@
 {
   "name": "composition-examples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Examples for The Two Pillars of JavaScript class: Composition",
   "main": "index.js",
   "scripts": {
