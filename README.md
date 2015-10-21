@@ -27,6 +27,10 @@ Examples for The Two Pillars of JavaScript: Prototypal OO - Object Composition
 
 ### Libraries and Code
 * [The Stamp Specification](https://github.com/stampit-org/stamp-specification)
+* [Stamp Utils](https://github.com/stampit-org/stamp-utils)
+* [Stampit](https://github.com/stampit-org/stampit)
+* [React Stamp](https://github.com/stampit-org/react-stamp) Use this instead of `class` when you need React lifecycle methods.
+* [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter) Use React pure components if you don't need React's lifecycle hooks for your component.
 * [Mori](https://github.com/swannodette/mori) Immutable datatypes from Clojure ported to JavaScript.
 * [Immutable JS](https://facebook.github.io/immutable-js/) Facebook's OSS Immutable library.
 * [Redux](https://github.com/rackt/redux) Pure functions for app state updates.
