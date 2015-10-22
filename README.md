@@ -46,6 +46,15 @@ For in-depth video discussion of these examples with Q&A, watch the [Composition
 * [rtype](https://github.com/ericelliott/rtype#rtype) A TypeScript-inspired structural type notation for JavaScript.
 * [rfx](https://github.com/ericelliott/rfx) Runtime library support for structurally-typed interfaces in JavaScript.
 
+## Prep Your Computer to Follow Along
+
+**What You'll Need:**
+
+* Node v4+ (For the best experience on Mac and Linux, [install with nvm](https://github.com/creationix/nvm))
+* [Git](https://help.github.com/articles/set-up-git/)
+* Your favorite text editor (or try [Atom.IO](https://atom.io/))
+* This repo (see "Getting Started")
+
 
 ## Getting Started
 
