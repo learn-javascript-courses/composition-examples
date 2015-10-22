@@ -19,7 +19,7 @@ For in-depth video discussion of these examples with Q&A, watch the [Composition
 ### Chat
 * [Chat about object composition](https://gitter.im/stampit-org/stampit) with stamp experts.
 
-### Articles
+### Learn About Prototypal OO
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635).
 * [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA). #video
 * [The Two Pillars of JavaScript Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3).
