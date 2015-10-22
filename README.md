@@ -23,7 +23,7 @@ For in-depth video discussion of these examples with Q&A, watch the [Composition
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635).
 * [Composition Over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA). #video
 * [The Two Pillars of JavaScript Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3).
-* [How to Fix the ES6 `class` Keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
+* [How to Fix the ES6 `class` Keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf).
 * [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a).
 * [Inside the Dev Team Death Spiral](https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b).
 * [The Open Minded Explorer's Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed).
