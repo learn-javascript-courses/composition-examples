@@ -12,7 +12,10 @@ For in-depth video discussion of these examples with Q&A, watch the [Composition
 * [Learn JavaScript with Eric Elliott](https://ericelliottjs.com).
 * [Direct Link for members](https://ericelliottjs.com/premium-content/two-pillars-composition-with-prototypes/).
 
-### Referenced Books
+### References
+* ["The Two Pillars of JavaScript Part 1"](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) Prototypal OO
+* ["The Two Pillars of JavaScript Part 2"](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) Functional programming
+* ["JavaScript Training Sucks"](https://medium.com/javascript-scene/javascript-training-sucks-284b53666245)
 * ["Design Patterns: Elements of Reusable Object-Oriented Software"](http://www.amazon.com/gp/product/0201634988?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201634988&linkCode=shr&tag=eejs-20&linkId=TMIKXHFQF7AJOQUF) by the Gang of Four.
 * ["Refactoring: Improving the Design of Existing Code"](http://www.amazon.com/gp/product/0201485672?ie=UTF8&camp=213733&creative=393185&creativeASIN=0201485672&linkCode=shr&tag=eejs-20&linkId=Z3J7SLZ25QEGYKJ6&creativeASIN=0201485672) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts.
 * ["Coders at Work: Reflections on the Art of Programming"](http://www.amazon.com/gp/product/1430219483?ie=UTF8&camp=213733&creative=393185&creativeASIN=1430219483&linkCode=shr&tag=eejs-20&linkId=LOH6AUEYXFSKKFTP) by Peter Seibel - the origin of the gorilla banana problem from Joe Armstrong.
