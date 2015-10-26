@@ -125,3 +125,6 @@ Typical production apps often get configuration data (such as details of network
 const configuration = compose(source1, source2, source3, eventEmitter);
 ```
 
+## Assignment
+
+Implement a [scrum checkin app](https://github.com/ericelliott/checkin/blob/master/README.md).
