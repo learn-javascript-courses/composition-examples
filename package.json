@@ -24,12 +24,12 @@
     "test": "test"
   },
   "dependencies": {
-    "eslint": "^1.7.0",
     "stamp-utils": "^1.2.4",
-    "tape": "^4.2.1",
-    "watch": "^0.16.0"
   },
   "devDependencies": {
+    "tape": "^4.2.1",
+    "watch": "^0.16.0",
+    "eslint": "^1.7.0",
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3"
   },
