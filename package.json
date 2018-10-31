@@ -24,7 +24,7 @@
     "test": "test"
   },
   "dependencies": {
-    "stamp-utils": "^1.2.4"
+    "stamp-utils": "1.2.4"
   },
   "devDependencies": {
     "tape": "^4.2.1",
